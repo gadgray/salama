@@ -1,0 +1,75 @@
+
+hr{
+	margin: 3% 17% ;
+}
+body{
+	background-color: #F4F3EA;
+	color: #333d51;
+	font-family: 'Merriweather', serif;
+	font: size 10px;
+
+}
+h1{
+	margin-bottom: 0;
+}
+a{
+	color: #333d51;
+}
+
+
+
+
+
+/*title section*/
+#logo{
+	width: 100px;
+	height: 100px;
+}
+#title{
+	text-align: center;
+	
+
+}
+
+.home-icon{
+	size: 20px;
+	color: #57648c;
+
+}
+
+
+
+
+/*details section*/
+
+
+#details{
+	padding: 5% 10%;
+}
+
+/* footer Section*/
+footer{
+	background-color: #333d51;
+	text-align: center;
+	color: #ffff;
+}
+.footer{
+	background-color: #e5e5e5;
+	color: #57648c;
+}
+
+
+
+
+/* About WebPage*/
+.pastor-img{
+	width: 250px;
+	height: 300px;
+}
+
+.about-body{
+	text-align: center;
+}
+
+
+
